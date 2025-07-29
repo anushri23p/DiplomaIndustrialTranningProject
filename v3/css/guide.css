@@ -1,0 +1,83 @@
+﻿                .wrapper {
+                    margin-top: 60px;
+                  }
+              
+                  .wrapper h1 {
+                    font-family: 'Times New Roman', Times, serif;
+                    font-size: 40px;
+                    /* margin-bottom: 30px */
+                    text-align: center;
+                    justify-content: center;
+                    /* text-align: center; */
+                    margin-left: 50px;
+                  }
+                  h1{
+                    
+                  }
+                  .head h1{
+                    display:block;
+                    margin-top:50px;
+                    text-align: center;
+                    justify-content: center;
+                    align-items: center;
+                    margin-left:10px;
+                  }
+              
+                  .team {
+                    display: flex;
+                    text-align: center;
+                    width: auto;
+                    justify-content: center;
+              
+                  }
+              
+                  .team .team_member {
+                    background: #fff;
+                    margin: 9px;
+                    margin-bottom: 50px;
+                    width: 350px;
+                    padding: 20px;
+                    Line-height: 20px;
+                    box-shadow: 8px 8px 4px rgb(98, 93, 93);
+                    position: relative;
+              
+              
+                  }
+              
+                  .team .team_member {
+                    color: black;
+                    font-size: 25px;
+                    margin-top: 50px;
+              
+                  }
+              
+                  .team .team_member p {
+              
+                    font-size: 12px;
+                    text-transform: uppercase;
+                    margin: 12px 0;
+                    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                    font-weight: 500;
+              
+                  }
+                  .A {
+                    color: rgb(249, 23, 23);
+                  }
+              
+                  .B {
+                    color: rgb(249, 23, 23);
+                  }
+              
+                  .A1 {
+                    color: rgb(249, 23, 23)
+                  }
+              
+                  .a2 {
+                    color: rgb(16, 16, 234);
+                  }
+              
+                  .team_img {
+                    box-sizing: border-box;
+              
+                  }
+                  
